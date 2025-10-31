@@ -1,0 +1,18 @@
+# Core Web Framework Dependencies
+flask==2.3.0
+flask_socketio==5.3.0
+flask_cors==4.0.0
+
+# Computer Vision Dependencies
+opencv-python==4.8.0.76
+numpy==1.24.0
+
+# Machine Learning & NLP Dependencies
+transformers==4.30.0
+torch==2.0.0
+
+# Optional/Development Dependencies (uncomment as needed)
+# pytest==7.4.0  # Testing framework
+# gunicorn==21.2.0  # Production WSGI HTTP Server
+# black==23.9.0  # Code formatter
+# isort==5.12.0  # Import sorter
